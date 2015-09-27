@@ -2,3 +2,5 @@ PageFaultCalculation- This program calculates the number of major page faults, m
 
 RegionGrowing- This programs performs region growing on pixels with same intensity(or given condition) using seeded region growing method. Both Matlab and C implementations are present here.The C program uses opencv 2.4.9 for basic operations like opening and saving an image file.
 
+Segregation- This is a simple program to segregate two kinds of objects effectively.
+
